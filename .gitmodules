@@ -1,0 +1,9 @@
+[submodule "communication"]
+	path = communication
+	url = https://github.com/e341c/communication.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/e341c/backend.git
+[submodule "analytics"]
+	path = analytics
+	url = https://github.com/e341c/analytics.git
